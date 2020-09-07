@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Your Fm App</string>
+
+
+    <!--<Admob App ID>-->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <!--<Admob Banner>-->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <!--<Admob Interstitial>-->
+    <string name="interstitia_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+
+
+    <string name="title_good_night">Good night</string>
+    <string name="title_good_evening">Good evening</string>
+    <string name="title_good_afternoon">Good afternoon</string>
+    <string name="title_good_morning">Good morning</string>
+    <string name="title_good_day">Good day</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="ok">ok</string>
+    <string name="err_internet_not_conn">err internet</string>
+    <string name="try_again">try again</string>
+    <string name="exit">exit</string>
+    <string name="error_nemosofts_key">Error Nemosofts key</string>
+    <string name="create_nemosofts_key">Create a new nemosofts key</string>
+    <string name="error_unauth_access">Unauthorized Access</string>
+    <string name="server_error">Server Error</string>
+    <string name="error_connect_net_tryagain">Please connect to internet and try again</string>
+</resources>
